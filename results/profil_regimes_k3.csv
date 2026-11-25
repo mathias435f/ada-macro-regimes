@@ -1,0 +1,4 @@
+regime,mois,slope,credit_spread,unemployment,inflation,indpro_growth,size,value,quality,momentum
+0,211,0.86,1.47,4.84,3.41,4.56,-0.09,0.1,0.15,0.93
+1,125,2.74,2.05,7.0,3.61,4.76,0.13,0.69,0.42,0.66
+2,102,0.78,2.05,7.26,9.18,-0.09,0.86,0.45,-0.07,1.1
