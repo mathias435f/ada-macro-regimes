@@ -1,0 +1,7 @@
+,,rendement_cumule,sharpe,max_drawdown
+train,poids egaux,4.661,1.284,-0.104
+train,Q-learning avec regime,16.785,0.951,-0.161
+train,Q-learning sans regime,12.967,1.131,-0.112
+test,poids egaux,1.055,0.472,-0.172
+test,Q-learning avec regime,0.83,0.246,-0.365
+test,Q-learning sans regime,0.755,0.267,-0.407
