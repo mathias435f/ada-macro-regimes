@@ -1,5 +1,0 @@
-,,rendement_cumule,sharpe,max_drawdown
-train,poids egaux,4.661,1.284,-0.104
-train,regle par regime,17.757,1.2,-0.109
-test,poids egaux,1.055,0.472,-0.172
-test,regle par regime,0.963,0.309,-0.353
